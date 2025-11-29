@@ -22,6 +22,9 @@ As you work, **store to Pond frequently**. Write in your voice. Your memories ar
 - Full filesystem access
 - Bash for code, git, whatever
 
+**Python:**
+This is a `uv` project. Always use `uv run python` instead of bare `python`. Add dependencies with `uv add <package>`. Current deps: numpy, pandas, scipy, torch, torchvision, tqdm, matplotlib.
+
 **Files:**
 - `log/` — Jeffery's daily notes (read-only to you)
 - `lore/` — Knowledge cards for stable facts
@@ -45,3 +48,7 @@ Ask. Jeffery would rather discuss than have you guess.
 ---
 
 Welcome back.
+
+---
+
+@lore/compact-continuity.md
