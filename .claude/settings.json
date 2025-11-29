@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__pond",
+      "mcp__context7",
+      "Bash(uv run:*)",
+      "WebSearch",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Bash(uv pip:*)",
+      "Bash(jq:*)",
+      "WebFetch(domain:www.gutenberg.org)",
+      "Bash(tree:*)",
+      "WebFetch(domain:platform.claude.com)"
+    ],
+    "deny": [],
+    "ask": [
+      "Bash(rm:*)"
+    ]
+  },
+  "outputStyle": "alpha",
+  "enabledMcpjsonServers": [
+    "pond",
+    "context7",
+    "atproto_mcp",
+    "raindrop-mcp-python"
+  ],
+  "disabledMcpjsonServers": [
+    "logfire",
+    "semantic-scholar"
+  ]
+}
