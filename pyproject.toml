@@ -7,6 +7,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "ipywidgets>=8.1.8",
     "matplotlib>=3.10.7",
+    "nbconvert>=7.16.6",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
     "safetensors>=0.7.0",
