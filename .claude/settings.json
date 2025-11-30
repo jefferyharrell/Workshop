@@ -17,22 +17,24 @@
       "WebFetch(domain:platform.claude.com)",
       "Bash(uv add:*)",
       "Bash(git add:*)",
-      "Bash(xxd:*)"
+      "Bash(xxd:*)",
+      "mcp__raindrop-mcp-python",
+      "mcp__semantic-scholar"
     ],
     "deny": [],
     "ask": [
       "Bash(rm:*)"
     ]
   },
-  "outputStyle": "alpha",
   "enabledMcpjsonServers": [
     "pond",
     "context7",
     "atproto_mcp",
-    "raindrop-mcp-python"
+    "raindrop-mcp-python",
+    "semantic-scholar"
   ],
   "disabledMcpjsonServers": [
-    "logfire",
-    "semantic-scholar"
-  ]
+    "logfire"
+  ],
+  "outputStyle": "alpha"
 }
