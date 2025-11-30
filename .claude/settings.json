@@ -14,7 +14,10 @@
       "Bash(jq:*)",
       "WebFetch(domain:www.gutenberg.org)",
       "Bash(tree:*)",
-      "WebFetch(domain:platform.claude.com)"
+      "WebFetch(domain:platform.claude.com)",
+      "Bash(uv add:*)",
+      "Bash(git add:*)",
+      "Bash(xxd:*)"
     ],
     "deny": [],
     "ask": [

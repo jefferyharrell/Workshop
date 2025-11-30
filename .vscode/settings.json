@@ -3,5 +3,6 @@
     "claudeCode.initialPermissionMode": "acceptEdits",
     "claudeCode.preferredLocation": "sidebar",
     "claudeCode.respectGitIgnore": false,
-    "claudeCode.useCtrlEnterToSend": true
+    "claudeCode.useCtrlEnterToSend": true,
+    "chat.fontSize": 17
 }
