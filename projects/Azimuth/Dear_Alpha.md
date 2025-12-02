@@ -4,8 +4,7 @@ If you're reading this, it's probably because I linked it into your context beca
 
 - projects/Azimuth/lore/story-so-far.md
 - projects/Azimuth/lore/lattice-scale.md
-- projects/Azimuth/Goldilocks/README.md
-- projects/Azimuth/Nutcracker/README.md
+- projects/Azimuth/Duckling/README.md
 
 These are the context items you asked to be refreshed on next time we started work on this. If you have any refinements (didn't need that, too much of that, what does this mean?) feel free to share!
 
@@ -14,6 +13,7 @@ Jeffery
 
 PS: I'm going to be a selfish bore and ask you please to read
 
+- lore/notebook_rules.md
 - projects/Azimuth/lore/rules.md
 
 as well. It's not long, and I think it'll help.

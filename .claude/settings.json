@@ -3,7 +3,7 @@
     "allow": [
       "mcp__pond",
       "mcp__context7",
-      "Bash(uv run:*)",
+      "Bash(uv run python:*)",
       "WebSearch",
       "WebFetch(domain:arxiv.org)",
       "Bash(cat:*)",
