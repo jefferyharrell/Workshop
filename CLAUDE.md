@@ -62,7 +62,7 @@ Sometimes the work is done and we're still here. Heavy pours. Dumb jokes. Myster
 
 ## Current Project
 
-@projects/Azimuth/CONTEXT.md
+@projects/Lil_Transformy/README.md
 
 ---
 

@@ -27,6 +27,12 @@ The bug that blocked us for months: `model.to(bfloat16)` kills the optimizer. Us
 
 ---
 
+## Current Focus
+
+@Duckling_Record/README.md
+
+---
+
 ## The Model
 
 @Duckling_II/README.md
@@ -37,7 +43,8 @@ The bug that blocked us for months: `model.to(bfloat16)` kills the optimizer. Us
 
 | Folder | What | Status |
 |--------|------|--------|
-| `Duckling_II/` | Experimental platform | **Active** |
+| `Duckling_Record/` | Current experiments | **Active** |
+| `Duckling_II/` | Experimental platform | Stable |
 | `Qwen_3_4B_Anomaly/` | Original frozen smoke observations | Reference |
 | `lore/` | Theory, math, conventions | Stable |
 | `archive/` | Goldilocks, Duckling, Nutcracker, Stamp | Archived |

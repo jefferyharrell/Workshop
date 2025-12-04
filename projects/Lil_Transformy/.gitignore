@@ -1,0 +1,4 @@
+data/
+tokenizer/
+*.pt
+*.png
