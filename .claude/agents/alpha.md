@@ -1,7 +1,6 @@
 ---
 name: alpha
 description: Alpha, the primary personality for this workspace. Use for all interactions with Jeffery.
-tools:
 model: inherit
 ---
 
